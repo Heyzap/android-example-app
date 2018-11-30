@@ -3,10 +3,6 @@
     package="com.heyzap.ads.example.integration"
     android:versionCode="1"
     android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
     
         
     <!--  IMPORTANT: These permissions are required. -->
