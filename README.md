@@ -1,8 +1,3 @@
-Heyzap Android Example App
-===================
+# Fyber FairBid Android Example App
 
-An example demonstrating an integration of Heyzap with annotations.
-
-Look in `src/com/heyzap/ads/example/integration/HeyzapActivity.java` to see examples.
-
-Import into Eclipse to build.
+This sample app demonstrates the basic functionalities of the Fyber FairBid SDK for Android.

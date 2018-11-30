@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0099cc"
+    android:background="#ffffff"
     android:id="@+id/content_view"
     tools:context=".HeyzapActivity" >
     
@@ -26,8 +26,8 @@
 		        android:gravity="top"
 		        android:keepScreenOn="true"
 		        android:text="Interstitial"
-		        android:textColor="#33b5e5"
-		        android:background="#335ce5"
+		        android:textColor="#ffffff"
+		        android:background="#00D694"
 		        android:textSize="30sp"
 		        android:textStyle="bold" />
 		    
@@ -72,8 +72,8 @@
                 android:gravity="top"
                 android:keepScreenOn="true"
                 android:text="Video"
-                android:textColor="#33b5e5"
-                android:background="#335ce5"
+                android:textColor="#ffffff"
+                android:background="#00D694"
                 android:textSize="30sp"
                 android:textStyle="bold" />
            
@@ -116,8 +116,8 @@
                 android:gravity="top"
                 android:keepScreenOn="true"
                 android:text="Rewarded Video View"
-                android:textColor="#33b5e5"
-                android:background="#335ce5"
+                android:textColor="#ffffff"
+                android:background="#00d694"
                 android:textSize="30sp"
                 android:textStyle="bold" />
 
